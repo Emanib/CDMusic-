@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css?family=Kalam&display=swap');
+
+* {
+    margin: 0; 
+   padding:0;
+   box-sizing: border-box;
+   font-family: 'arial', sans-serif;
+  
+}
+body 
+{
+    
+    background-image: url(helloo.png);
+   
+}
+.info 
+{
+    width: 300px;
+    height: 200px;
+    padding: 50px;
+    border: 2px solid ;
+    display: flex;
+    justify-content: center;
+    flex-direction: column-reverse;
+    margin-top: 100px;
+    margin-left: 500px;
+    background-color: cornsilk;
+    font-family: Kalam;
+  
+}
+#audio  
+{
+    margin-top: 70px;
+    margin-left: 500px;
+    
+}
+p 
+{
+    font-family: Kalam;
+    font-size: 20px;
+}
